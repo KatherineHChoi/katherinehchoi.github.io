@@ -6,7 +6,7 @@ title: 2023-2025
 
 Here is my work and reading from 2023 to 2025:
 
-* [2025 MIT cosmology workshop talk slides](/pdfs/current-draft.pdf)
+* [2025 MIT cosmology workshop talk slides](/pdfs/mitslides.pdf)
 * [2025 MIT cosmology workshop talk script](/pdfs/current-draft.pdf)
 
 * [handwritten notes from summer 2025](/pdfs/current-draft.pdf)
