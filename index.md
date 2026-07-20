@@ -2,7 +2,10 @@
 layout: default
 title: Home
 ---
-## Welcome
-<img src="/images/profile.jpeg" alt="My profile picture" width="150" style="border-radius: 8px;">
+# Katherine H Choi
+<img src="/images/profile.jpeg" alt="picture of me" width="150">
+<img src="/images/love.jpeg" alt="picture of my dog" width="150">
 
-This is my personal website where I share my interests (mainly math, some cosmology, and some book reviews)!
+Hi, I'm a rising juior at Carnegie Mellon University studying math and physics. I hope to go to graduate school to study some area in pure math (I am currently very interested in Number Theory and Galois Theory!!!) and hopefully become a professor someday. I also like to read books (my favorite genre is bildungsroman), go sunbathing at the beach, and listen to Olivia Rodrigo.
+
+Contact: khchoi@andrew.cmu.edu
