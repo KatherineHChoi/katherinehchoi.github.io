@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <style>
+        body {
+            background-color: lightpink;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            color: #222;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        nav { 
+            margin-bottom: 40px; 
+            border-bottom: 2px solid #222; 
+            padding-bottom: 15px; 
+        }
+        nav a { 
+            margin-right: 20px; 
+            text-decoration: none; 
+            color: #000; 
+            font-weight: bold; 
+        }
+        nav a:hover { text-decoration: underline; }
+        a { color: #0366d6; }
+        .post-list { list-style: none; padding: 0; }
+        .post-list li { margin-bottom: 15px; font-size: 1.1em; }
+        .post-date { color: #555; font-size: 0.9em; margin-right: 10px; }
+    </style>
+    
+    <!-- LaTeX Rendering via MathJax -->
+    <script>
+        window.MathJax = {
+          tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+          }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/notes.html">Expository Notes</a>
+        <a href="/cosmology.html">Cosmology</a>
+        <a href="/blog.html">Blog</a>
+    </nav>
+    <main>
+        {{ content }}
+    </main>
+</body>
+</html>
