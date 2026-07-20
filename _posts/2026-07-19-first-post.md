@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Testing LaTeX and Math
+category: blog
 ---
 # My First Post
 
