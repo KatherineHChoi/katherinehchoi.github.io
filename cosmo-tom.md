@@ -2,9 +2,8 @@
 layout: default
 title: 2023-2025
 ---
-# Cosmology (2023 - 2025)
+## 2023 - 2025
 
-Here is my work and reading from 2023 to 2025:
 
 * [2025 MIT cosmology workshop talk slides](/pdfs/mitslid.pdf)
 * [2025 MIT cosmology workshop talk script](/pdfs/current-draft.pdf)
